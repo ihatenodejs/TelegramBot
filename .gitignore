@@ -139,3 +139,6 @@ package-lock.json
 !resources.json
 plugins/*
 tmp/*
+
+# JetBrains
+.idea/
